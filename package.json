@@ -1,0 +1,35 @@
+{
+  "name": "chyronic",
+  "version": "0.0.1",
+  "author": "Randall Bennett <randall@vidpresso.com>",
+  "description": "A module for controlling intelligent interface style devices.",
+  "contributors": [ 
+    {
+      "name": "Jeff Zimmerlin",
+      "email": "jeff@vidpresso.com"
+    } 
+  ],
+  "main": "./lib/chyron.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randallb/Chyronic.git"
+  },
+  "keywords": [
+    "chyron",
+    "intelligent",
+    "interface"
+  ],
+  "dependencies" : {
+
+  },
+  "devDependencies": {
+
+  },
+  "bundleDependencies": [
+  ],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
+
